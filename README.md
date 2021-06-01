@@ -1,2 +1,2 @@
 # tic-tac-toe
-Created with CodeSandbox
+Tica Tac Toe App Using Javascript
